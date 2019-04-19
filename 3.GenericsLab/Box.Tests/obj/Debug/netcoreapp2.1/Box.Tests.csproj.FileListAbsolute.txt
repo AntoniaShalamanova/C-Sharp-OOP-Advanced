@@ -1,0 +1,17 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\Box.Tests.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\Box.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\Box.Tests.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\Box.Tests.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\Box.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\1BoxOfT.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\bin\Debug\netcoreapp2.1\1BoxOfT.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.csproj.CopyComplete
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Box.Tests\obj\Debug\netcoreapp2.1\Box.Tests.pdb

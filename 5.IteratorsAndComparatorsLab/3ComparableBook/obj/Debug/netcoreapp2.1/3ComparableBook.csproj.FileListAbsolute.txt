@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\bin\Debug\netcoreapp2.1\3ComparableBook.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\bin\Debug\netcoreapp2.1\3ComparableBook.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\bin\Debug\netcoreapp2.1\3ComparableBook.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\bin\Debug\netcoreapp2.1\3ComparableBook.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\bin\Debug\netcoreapp2.1\3ComparableBook.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\obj\Debug\netcoreapp2.1\3ComparableBook.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\obj\Debug\netcoreapp2.1\3ComparableBook.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\obj\Debug\netcoreapp2.1\3ComparableBook.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\obj\Debug\netcoreapp2.1\3ComparableBook.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\obj\Debug\netcoreapp2.1\3ComparableBook.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\3ComparableBook\obj\Debug\netcoreapp2.1\3ComparableBook.pdb

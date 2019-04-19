@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\8CreateCustomClassAttribute.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\8CreateCustomClassAttribute.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\8CreateCustomClassAttribute.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\8CreateCustomClassAttribute.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\8CreateCustomClassAttribute.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\8CreateCustomClassAttribute.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\8CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\8CreateCustomClassAttribute.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\8CreateCustomClassAttribute.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\8CreateCustomClassAttribute.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\8CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\8CreateCustomClassAttribute.pdb

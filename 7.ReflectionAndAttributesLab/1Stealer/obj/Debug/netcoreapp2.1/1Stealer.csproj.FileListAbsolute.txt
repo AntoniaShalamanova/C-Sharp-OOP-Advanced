@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\bin\Debug\netcoreapp2.1\1Stealer.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\bin\Debug\netcoreapp2.1\1Stealer.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\bin\Debug\netcoreapp2.1\1Stealer.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\bin\Debug\netcoreapp2.1\1Stealer.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\bin\Debug\netcoreapp2.1\1Stealer.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\obj\Debug\netcoreapp2.1\1Stealer.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\obj\Debug\netcoreapp2.1\1Stealer.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\obj\Debug\netcoreapp2.1\1Stealer.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\obj\Debug\netcoreapp2.1\1Stealer.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\obj\Debug\netcoreapp2.1\1Stealer.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\1Stealer\obj\Debug\netcoreapp2.1\1Stealer.pdb

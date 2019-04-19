@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\bin\Debug\netcoreapp2.1\1ListyIterator.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\bin\Debug\netcoreapp2.1\1ListyIterator.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\bin\Debug\netcoreapp2.1\1ListyIterator.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\bin\Debug\netcoreapp2.1\1ListyIterator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\bin\Debug\netcoreapp2.1\1ListyIterator.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\obj\Debug\netcoreapp2.1\1ListyIterator.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\obj\Debug\netcoreapp2.1\1ListyIterator.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\obj\Debug\netcoreapp2.1\1ListyIterator.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\obj\Debug\netcoreapp2.1\1ListyIterator.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\obj\Debug\netcoreapp2.1\1ListyIterator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\1ListyIterator\obj\Debug\netcoreapp2.1\1ListyIterator.pdb

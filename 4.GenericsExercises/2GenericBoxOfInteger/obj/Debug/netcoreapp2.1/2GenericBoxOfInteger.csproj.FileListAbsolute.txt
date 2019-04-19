@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\2GenericBoxOfInteger.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\2GenericBoxOfInteger.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\2GenericBoxOfInteger.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\2GenericBoxOfInteger.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\bin\Debug\netcoreapp2.1\2GenericBoxOfInteger.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\2GenericBoxOfInteger.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\2GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\2GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\2GenericBoxOfInteger.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\2GenericBoxOfInteger.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\2GenericBoxOfInteger\obj\Debug\netcoreapp2.1\2GenericBoxOfInteger.pdb

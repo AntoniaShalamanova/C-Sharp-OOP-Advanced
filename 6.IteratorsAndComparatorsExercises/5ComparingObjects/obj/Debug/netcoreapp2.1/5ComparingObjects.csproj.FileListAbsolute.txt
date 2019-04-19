@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\bin\Debug\netcoreapp2.1\5ComparingObjects.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\bin\Debug\netcoreapp2.1\5ComparingObjects.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\bin\Debug\netcoreapp2.1\5ComparingObjects.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\bin\Debug\netcoreapp2.1\5ComparingObjects.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\bin\Debug\netcoreapp2.1\5ComparingObjects.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\obj\Debug\netcoreapp2.1\5ComparingObjects.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\obj\Debug\netcoreapp2.1\5ComparingObjects.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\obj\Debug\netcoreapp2.1\5ComparingObjects.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\obj\Debug\netcoreapp2.1\5ComparingObjects.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\obj\Debug\netcoreapp2.1\5ComparingObjects.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\5ComparingObjects\obj\Debug\netcoreapp2.1\5ComparingObjects.pdb

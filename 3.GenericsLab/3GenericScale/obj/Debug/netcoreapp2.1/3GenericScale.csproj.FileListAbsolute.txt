@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\bin\Debug\netcoreapp2.1\3GenericScale.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\bin\Debug\netcoreapp2.1\3GenericScale.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\bin\Debug\netcoreapp2.1\3GenericScale.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\bin\Debug\netcoreapp2.1\3GenericScale.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\bin\Debug\netcoreapp2.1\3GenericScale.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\obj\Debug\netcoreapp2.1\3GenericScale.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\obj\Debug\netcoreapp2.1\3GenericScale.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\obj\Debug\netcoreapp2.1\3GenericScale.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\obj\Debug\netcoreapp2.1\3GenericScale.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\3GenericScale\obj\Debug\netcoreapp2.1\3GenericScale.pdb

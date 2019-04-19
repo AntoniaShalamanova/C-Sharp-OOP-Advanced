@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\bin\Debug\netcoreapp2.0\P04.Recharge.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P04.Recharge\obj\Debug\netcoreapp2.0\P04.Recharge.pdb

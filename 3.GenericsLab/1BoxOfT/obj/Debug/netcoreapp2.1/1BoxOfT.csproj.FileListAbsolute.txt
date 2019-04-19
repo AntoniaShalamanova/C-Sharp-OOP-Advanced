@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\bin\Debug\netcoreapp2.1\1BoxOfT.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\bin\Debug\netcoreapp2.1\1BoxOfT.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\bin\Debug\netcoreapp2.1\1BoxOfT.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\bin\Debug\netcoreapp2.1\1BoxOfT.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\bin\Debug\netcoreapp2.1\1BoxOfT.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\obj\Debug\netcoreapp2.1\1BoxOfT.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\obj\Debug\netcoreapp2.1\1BoxOfT.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\obj\Debug\netcoreapp2.1\1BoxOfT.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\obj\Debug\netcoreapp2.1\1BoxOfT.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\obj\Debug\netcoreapp2.1\1BoxOfT.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\1BoxOfT\obj\Debug\netcoreapp2.1\1BoxOfT.pdb

@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\bin\Debug\netcoreapp2.1\2HighQualityMistakes.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\bin\Debug\netcoreapp2.1\2HighQualityMistakes.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\bin\Debug\netcoreapp2.1\2HighQualityMistakes.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\bin\Debug\netcoreapp2.1\2HighQualityMistakes.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\bin\Debug\netcoreapp2.1\2HighQualityMistakes.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\obj\Debug\netcoreapp2.1\2HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\obj\Debug\netcoreapp2.1\2HighQualityMistakes.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\obj\Debug\netcoreapp2.1\2HighQualityMistakes.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\obj\Debug\netcoreapp2.1\2HighQualityMistakes.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\2HighQualityMistakes\obj\Debug\netcoreapp2.1\2HighQualityMistakes.pdb

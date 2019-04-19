@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\bin\Debug\netcoreapp2.1\6TrafficLights.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\bin\Debug\netcoreapp2.1\6TrafficLights.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\bin\Debug\netcoreapp2.1\6TrafficLights.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\bin\Debug\netcoreapp2.1\6TrafficLights.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\bin\Debug\netcoreapp2.1\6TrafficLights.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\obj\Debug\netcoreapp2.1\6TrafficLights.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\obj\Debug\netcoreapp2.1\6TrafficLights.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\obj\Debug\netcoreapp2.1\6TrafficLights.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\obj\Debug\netcoreapp2.1\6TrafficLights.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\NextExercises\6TrafficLights\obj\Debug\netcoreapp2.1\6TrafficLights.pdb

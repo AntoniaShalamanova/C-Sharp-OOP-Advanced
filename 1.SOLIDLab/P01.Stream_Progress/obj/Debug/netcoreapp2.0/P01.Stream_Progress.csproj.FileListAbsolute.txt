@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\bin\Debug\netcoreapp2.0\P01.Stream_Progress.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P01.Stream_Progress\obj\Debug\netcoreapp2.0\P01.Stream_Progress.pdb

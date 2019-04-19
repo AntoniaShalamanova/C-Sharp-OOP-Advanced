@@ -1,0 +1,17 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\Scale.Tests.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\Scale.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\Scale.Tests.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\Scale.Tests.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\Scale.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\3GenericScale.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\bin\Debug\netcoreapp2.1\3GenericScale.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.csproj.CopyComplete
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Scale.Tests\obj\Debug\netcoreapp2.1\Scale.Tests.pdb

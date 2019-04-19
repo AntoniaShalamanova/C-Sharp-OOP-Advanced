@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\bin\Debug\netcoreapp2.1\4Collector.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\bin\Debug\netcoreapp2.1\4Collector.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\bin\Debug\netcoreapp2.1\4Collector.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\bin\Debug\netcoreapp2.1\4Collector.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\bin\Debug\netcoreapp2.1\4Collector.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\obj\Debug\netcoreapp2.1\4Collector.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\obj\Debug\netcoreapp2.1\4Collector.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\obj\Debug\netcoreapp2.1\4Collector.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\obj\Debug\netcoreapp2.1\4Collector.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\obj\Debug\netcoreapp2.1\4Collector.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\4Collector\obj\Debug\netcoreapp2.1\4Collector.csprojAssemblyReference.cache

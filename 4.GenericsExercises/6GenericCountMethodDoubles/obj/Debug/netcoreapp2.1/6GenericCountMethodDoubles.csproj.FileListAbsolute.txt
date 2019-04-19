@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\6GenericCountMethodDoubles.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\6GenericCountMethodDoubles.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\6GenericCountMethodDoubles.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\6GenericCountMethodDoubles.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\6GenericCountMethodDoubles.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\6GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\6GenericCountMethodDoubles.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\6GenericCountMethodDoubles.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\6GenericCountMethodDoubles.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\6GenericCountMethodDoubles.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\6GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\6GenericCountMethodDoubles.csprojAssemblyReference.cache

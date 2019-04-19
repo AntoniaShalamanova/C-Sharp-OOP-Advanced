@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\bin\Debug\netcoreapp2.1\3StackWithNode.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\bin\Debug\netcoreapp2.1\3StackWithNode.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\bin\Debug\netcoreapp2.1\3StackWithNode.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\bin\Debug\netcoreapp2.1\3StackWithNode.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\bin\Debug\netcoreapp2.1\3StackWithNode.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\obj\Debug\netcoreapp2.1\3StackWithNode.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\obj\Debug\netcoreapp2.1\3StackWithNode.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\obj\Debug\netcoreapp2.1\3StackWithNode.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\obj\Debug\netcoreapp2.1\3StackWithNode.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\obj\Debug\netcoreapp2.1\3StackWithNode.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\3StackWithNode\obj\Debug\netcoreapp2.1\3StackWithNode.pdb

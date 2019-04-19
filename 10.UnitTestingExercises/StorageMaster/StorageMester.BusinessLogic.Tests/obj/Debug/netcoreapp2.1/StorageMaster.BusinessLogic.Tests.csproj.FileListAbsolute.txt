@@ -1,0 +1,17 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\UnitTestingExercises\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMaster.BusinessLogic.Tests.csproj.CopyComplete

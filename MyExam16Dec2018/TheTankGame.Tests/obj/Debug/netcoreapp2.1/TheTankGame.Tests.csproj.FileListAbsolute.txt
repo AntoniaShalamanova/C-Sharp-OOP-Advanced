@@ -1,0 +1,34 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\MyExam16Dec2018\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.pdb

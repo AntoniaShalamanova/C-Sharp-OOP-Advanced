@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\bin\Debug\netcoreapp2.1\7EqualityLogic.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\bin\Debug\netcoreapp2.1\7EqualityLogic.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\bin\Debug\netcoreapp2.1\7EqualityLogic.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\bin\Debug\netcoreapp2.1\7EqualityLogic.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\bin\Debug\netcoreapp2.1\7EqualityLogic.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\obj\Debug\netcoreapp2.1\7EqualityLogic.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\obj\Debug\netcoreapp2.1\7EqualityLogic.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\obj\Debug\netcoreapp2.1\7EqualityLogic.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\obj\Debug\netcoreapp2.1\7EqualityLogic.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\obj\Debug\netcoreapp2.1\7EqualityLogic.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\7EqualityLogic\obj\Debug\netcoreapp2.1\7EqualityLogic.csprojAssemblyReference.cache

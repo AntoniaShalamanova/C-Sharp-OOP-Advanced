@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\bin\Debug\netcoreapp2.1\7CustomList.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\bin\Debug\netcoreapp2.1\7CustomList.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\bin\Debug\netcoreapp2.1\7CustomList.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\bin\Debug\netcoreapp2.1\7CustomList.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\bin\Debug\netcoreapp2.1\7CustomList.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\obj\Debug\netcoreapp2.1\7CustomList.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\obj\Debug\netcoreapp2.1\7CustomList.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\obj\Debug\netcoreapp2.1\7CustomList.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\obj\Debug\netcoreapp2.1\7CustomList.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\obj\Debug\netcoreapp2.1\7CustomList.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\7CustomList\obj\Debug\netcoreapp2.1\7CustomList.pdb

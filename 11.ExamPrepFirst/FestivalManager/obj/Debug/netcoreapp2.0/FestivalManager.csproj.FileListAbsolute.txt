@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ExamPreparationFirst\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb

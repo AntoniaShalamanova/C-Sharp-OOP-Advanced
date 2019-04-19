@@ -1,0 +1,17 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\Array.Tests.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\Array.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\Array.Tests.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\Array.Tests.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\Array.Tests.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\2GenericArrayCreator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\bin\Debug\netcoreapp2.1\2GenericArrayCreator.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.csproj.CopyComplete
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\Array.Tests\obj\Debug\netcoreapp2.1\Array.Tests.pdb

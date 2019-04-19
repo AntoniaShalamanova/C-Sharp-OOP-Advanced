@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\GenericsExercises\4GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\4GenericSwapMethodIntegers.pdb

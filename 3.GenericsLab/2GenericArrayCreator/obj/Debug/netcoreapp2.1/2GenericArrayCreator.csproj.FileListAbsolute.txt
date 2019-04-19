@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\bin\Debug\netcoreapp2.1\2GenericArrayCreator.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\bin\Debug\netcoreapp2.1\2GenericArrayCreator.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\bin\Debug\netcoreapp2.1\2GenericArrayCreator.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\bin\Debug\netcoreapp2.1\2GenericArrayCreator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\bin\Debug\netcoreapp2.1\2GenericArrayCreator.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\obj\Debug\netcoreapp2.1\2GenericArrayCreator.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\obj\Debug\netcoreapp2.1\2GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\obj\Debug\netcoreapp2.1\2GenericArrayCreator.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\obj\Debug\netcoreapp2.1\2GenericArrayCreator.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\obj\Debug\netcoreapp2.1\2GenericArrayCreator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\2GenericsLab\2GenericArrayCreator\obj\Debug\netcoreapp2.1\2GenericArrayCreator.pdb

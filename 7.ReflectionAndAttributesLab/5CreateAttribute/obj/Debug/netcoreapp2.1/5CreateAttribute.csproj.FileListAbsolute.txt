@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.csprojAssemblyReference.cache

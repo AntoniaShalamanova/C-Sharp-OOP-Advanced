@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\bin\Debug\netcoreapp2.1\9LinkedListTraversal.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\bin\Debug\netcoreapp2.1\9LinkedListTraversal.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\bin\Debug\netcoreapp2.1\9LinkedListTraversal.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\bin\Debug\netcoreapp2.1\9LinkedListTraversal.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\bin\Debug\netcoreapp2.1\9LinkedListTraversal.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\obj\Debug\netcoreapp2.1\9LinkedListTraversal.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\obj\Debug\netcoreapp2.1\9LinkedListTraversal.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\obj\Debug\netcoreapp2.1\9LinkedListTraversal.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\obj\Debug\netcoreapp2.1\9LinkedListTraversal.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\obj\Debug\netcoreapp2.1\9LinkedListTraversal.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\IteratorsAndComparatorsExercises\9LinkedListTraversal\obj\Debug\netcoreapp2.1\9LinkedListTraversal.pdb

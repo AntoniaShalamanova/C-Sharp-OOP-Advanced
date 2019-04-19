@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

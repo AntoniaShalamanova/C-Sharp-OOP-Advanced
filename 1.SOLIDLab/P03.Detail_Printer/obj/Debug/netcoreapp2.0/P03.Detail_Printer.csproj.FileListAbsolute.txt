@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\1SOLIDLab\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.pdb

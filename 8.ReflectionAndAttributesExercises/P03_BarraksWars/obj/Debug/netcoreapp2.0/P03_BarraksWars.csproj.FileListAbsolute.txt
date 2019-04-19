@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\ReflectionAndAttributesExercises\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

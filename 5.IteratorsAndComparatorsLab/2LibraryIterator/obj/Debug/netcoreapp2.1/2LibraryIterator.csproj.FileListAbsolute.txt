@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\bin\Debug\netcoreapp2.1\2LibraryIterator.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\bin\Debug\netcoreapp2.1\2LibraryIterator.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\bin\Debug\netcoreapp2.1\2LibraryIterator.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\bin\Debug\netcoreapp2.1\2LibraryIterator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\bin\Debug\netcoreapp2.1\2LibraryIterator.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\obj\Debug\netcoreapp2.1\2LibraryIterator.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\obj\Debug\netcoreapp2.1\2LibraryIterator.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\obj\Debug\netcoreapp2.1\2LibraryIterator.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\obj\Debug\netcoreapp2.1\2LibraryIterator.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\obj\Debug\netcoreapp2.1\2LibraryIterator.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\3IteratorsAndComparatorsLab\2LibraryIterator\obj\Debug\netcoreapp2.1\2LibraryIterator.pdb

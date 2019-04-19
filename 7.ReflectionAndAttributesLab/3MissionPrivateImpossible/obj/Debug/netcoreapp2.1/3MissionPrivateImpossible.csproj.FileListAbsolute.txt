@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\obj\Debug\netcoreapp2.1\3MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\obj\Debug\netcoreapp2.1\3MissionPrivateImpossible.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\obj\Debug\netcoreapp2.1\3MissionPrivateImpossible.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\bin\Debug\netcoreapp2.1\3MissionPrivateImpossible.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\bin\Debug\netcoreapp2.1\3MissionPrivateImpossible.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\bin\Debug\netcoreapp2.1\3MissionPrivateImpossible.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\bin\Debug\netcoreapp2.1\3MissionPrivateImpossible.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\bin\Debug\netcoreapp2.1\3MissionPrivateImpossible.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\obj\Debug\netcoreapp2.1\3MissionPrivateImpossible.dll
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\obj\Debug\netcoreapp2.1\3MissionPrivateImpossible.pdb
+D:\MyFolder\C#Fundamentals\C#OOPAdvanced\4ReflectionLab\3MissionPrivateImpossible\obj\Debug\netcoreapp2.1\3MissionPrivateImpossible.csprojAssemblyReference.cache
